@@ -30,9 +30,6 @@ obviously I love to program to!  :computer:
   <a href="https://pt-br.reactjs.org">
     <img align="left" alt="React JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
   </a>
-  <a href="https://reactnative.dev">
-    <img align="left" alt="React Native" width="26px" src="https://library.kissclipart.com/20181008/qw/kissclipart-react-logo-transparent-background-clipart-react-co-f9507a1adbc3c5f3.jpg" />
-  </a>
   <a href="https://nodejs.org/en/">
     <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   </a>
