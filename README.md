@@ -16,7 +16,9 @@ obviously I love to program to!  :computer:
  [<img align="left" alt="haryel gillet ramalho | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
  [<img align="left" alt="haryel gillet ramalho | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
  [<img align="left" alt="haryel gillet ramalho | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][gmail]
- ## Languages and Tools:
+ <br/>
+ 
+ ### Languages and Tools:
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
