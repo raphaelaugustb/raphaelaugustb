@@ -8,7 +8,7 @@ obviously I love to program to!  :computer:
 
 <br/> - :purple_heart: For now I would to help in projects using my FullStack    Knowledge
 <br/> - :rocket: I’m currently learning Node JS, React JS and React Native at Rocketseat.
-<br/> - 💬 About Me: I've been programming since 2016, I like to play some games and watch Netflix too! 
+<br/> - 💬 About Me: I've been programming since 2016, I like to play some <br/>games and watch Netflix too! 
 <br/>
  
  ### Connect with me: 
