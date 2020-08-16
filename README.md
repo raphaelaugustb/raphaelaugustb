@@ -11,8 +11,10 @@ obviously I love to program to!  :computer:
  <br/> :purple_heart: &nbsp; For now I would to help in projects using my FullStack Knowledge
  <br/> :computer: &nbsp; My Stack: ReactJS, Node.js,Typescript
  <br/> 💬  &nbsp; About Me: I've been programming since 2016, I like to play some games and watch Netflix too! 
- <br/>:email:  &nbsp;
+ <br/>
+ 
  ###Contact: 
+ 
  [<img align="left" alt="haryel gillet ramalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="haryel gillet ramalho | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
  [<img align="left" alt="haryel gillet ramalho | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
