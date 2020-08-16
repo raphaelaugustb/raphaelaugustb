@@ -46,7 +46,7 @@ obviously I love to program to!  :computer:
   </a>
 <div/>
 
-[linkedin]: https://www.linkedin.com/in/raphael-augusto-47024b1b4/
+[linkedin]: https://www.linkedin.com/in/raphael-augusto/
 [github]: https://github.com/raphaelaugustb
 [gmail]: mailto:travassosraphael12@gmail.com
 [Instagram]:https://www.instagram.com/raphaelaugust_b.js/
