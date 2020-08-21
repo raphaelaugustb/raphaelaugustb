@@ -12,10 +12,10 @@ obviously I love to program to!  :computer:
 <br/>
  
  ### Connect with me: 
- [<img align="left" alt="haryel gillet ramalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="haryel gillet ramalho | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
- [<img align="left" alt="haryel gillet ramalho | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
- [<img align="left" alt="haryel gillet ramalho | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />][gmail]
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:travassosraphael12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-augusto/)
+
+
  <br/>
  
  ### Languages and Tools:
