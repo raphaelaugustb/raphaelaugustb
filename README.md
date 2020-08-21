@@ -15,10 +15,7 @@ obviously I love to program to!  :computer:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:travassosraphael12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-augusto/)
 
-
- <br/>
- 
- ### Languages and Tools:
+### Languages and Tools:
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
