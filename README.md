@@ -13,6 +13,7 @@ obviously I love to program to!  :computer:
  
  ### Connect with me: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:travassosraphael12@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)]https://api.whatsapp.com/send?phone=5524981588233&text=Olá eu entrei pelo seu Link do Whatsapp.)
 ### Languages and Tools:
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
