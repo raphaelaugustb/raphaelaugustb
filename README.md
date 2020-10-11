@@ -6,18 +6,18 @@
 My name is Raphael, I'm a FullStack Developer from Brazil,I like to help peoples with his problems and 
 obviously I love to program to!  :computer:
 
-<br/> - :purple_heart: For now I would to help in projects using my FullStack    Knowledge
-<br/> - :rocket: I’m currently learning Node JS, React JS and React Native at Rocketseat.
+<br/> - :purple_heart: For now I would to help in projects using my Front-End Knowledge
+<br/> - :rocket: I’m currently learning React JS and React Native at Rocketseat.
 <br/> - 💬 About Me: I've been programming since 2016, I like to play some <br/>games and watch Netflix too! 
 <br/>
  
  
 <br/> 
  
- <p align="center">
+ <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
+    <img 
+      align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&layout=compact"
     />
   </a>
@@ -32,11 +32,11 @@ obviously I love to program to!  :computer:
 
 
 ### Find me around the web 🌎:
-<a href="mailto:travassosraphael12@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" alt="gmail" width="26px"/></a>
-<a href="(https://api.whatsapp.com/send?phone=5524981588233&text=Olá%eu%vim%por%meio%do%seu%Link%do%Whatsapp."><img src="https://www.flaticon.com/svg/static/icons/svg/733/733585.svg" alt="Whatsapp" width="26px" /></a>
-<a href="https://www.linkedin.com/in/raphael-augusto/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin" width="26px"/></a>
+<a href="mailto:travassosraphael12@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg"   align="left" alt="gmail" width="26px"/></a>
+<a href="(https://api.whatsapp.com/send?phone=5524981588233&text=Olá%eu%vim%por%meio%do%seu%Link%do%Whatsapp."><img src="https://www.flaticon.com/svg/static/icons/svg/733/733585.svg" alt="Whatsapp"  align="left" width="26px" /></a>
+<a href="https://www.linkedin.com/in/raphael-augusto/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin"  align="left" width="26px"/></a> 
 
-
+<br/>
                             
 
 ### Languages and Tools:
@@ -64,7 +64,3 @@ obviously I love to program to!  :computer:
   </a>
 <div/>
 
-[linkedin]: https://www.linkedin.com/in/raphael-augusto/
-[github]: https://github.com/raphaelaugustb
-[gmail]: mailto:travassosraphael12@gmail.com
-[Instagram]:https://www.instagram.com/raphaelaugust_b.js/
