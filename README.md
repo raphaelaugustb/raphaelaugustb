@@ -11,10 +11,10 @@ obviously I love to program to!  :computer:
 <br/> - 💬 About Me: I've been programming since 2016, I like to play some <br/>games and watch Netflix too! 
 <br/>
  
- <p align="center">
+ <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
+      align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&layout=compact"
     />
   </a>
