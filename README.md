@@ -11,10 +11,13 @@ obviously I love to program to!  :computer:
 <br/> - 💬 About Me: I've been programming since 2016, I like to play some <br/>games and watch Netflix too! 
 <br/>
  
- <p align="left">
+ 
+<br/> 
+ 
+ <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="left"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&layout=compact"
     />
   </a>
@@ -27,10 +30,11 @@ obviously I love to program to!  :computer:
   </a>
 </p>
 
- ### Connect with me: 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:travassosraphael12@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5524981588233&text=Olá%eu%vim%por%meio%do%seu%Link%do%Whatsapp.)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/raphael-augusto/)
+
+### Find me around the web 🌎:
+Gmail(mailto:travassosraphael12@gmail.com)
+Whatsapp(https://api.whatsapp.com/send?phone=5524981588233&text=Olá%eu%vim%por%meio%do%seu%Link%do%Whatsapp.)
+Linkedin(https://www.linkedin.com/in/raphael-augusto/)
 ### Languages and Tools:
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"> 
