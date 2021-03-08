@@ -6,8 +6,8 @@
 My name is Raphael, I'm a FullStack Developer from Brazil,I like to help peoples with his problems and 
 obviously I love to program to!  :computer:
 
-<br/> - :purple_heart: For now I would to help in projects using my Front-End Knowledge
-<br/> - :rocket: I’m currently learning React JS and React Native at Rocketseat.
+<br/> - :purple_heart: For now  I would to help in projects using my FullStacj Knowledge
+<br/> - :rocket: For now I'm deepening in JavaScript and TypeScript.
 <br/> - 💬 About Me: I've been programming since 2016, I like to play some <br/>games and watch Netflix too! 
 <br/>
  
