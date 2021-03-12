@@ -4,10 +4,10 @@
 
 ## 👋Welcome to my GitHub <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 My name is Raphael, I'm a JavaScript FullStack Developer from Brazil,I like to help peoples with his problems and 
-obviously I love to program to! :computer:
+obviously I love to program too! :computer:
 
 <br/> - :purple_heart: For now I would to help in projects using my FullStack Knowledge
-<br/> - :rocket: For now I'm deepening in JavaScript and TypeScript.
+<br/> - :rocket: For now I'm deepening in JavaScript and TypeScript (My Stack today is React.js, React Native and Node.js).
 <br/> - 💬 About Me: I've been programming since 2016, I like to play some <br/>games and watch Netflix too! 
 <br/>
  
