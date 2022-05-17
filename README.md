@@ -31,10 +31,7 @@ obviously I love to program too! :computer:
 </p>
 
 
-### Find me around the web 🌎:
-<a href="mailto:travassosraphael12@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg"   align="left" alt="gmail" width="26px"/></a>
-<a href="(https://api.whatsapp.com/send?phone=5524981588233&text=Olá%eu%vim%por%meio%do%seu%Link%do%Whatsapp."><img src="https://www.flaticon.com/svg/static/icons/svg/733/733585.svg" alt="Whatsapp"  align="left" width="26px" /></a>
-<a href="https://www.linkedin.com/in/raphael-augusto/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin"  align="left" width="26px"/></a> 
+
 
 <br/>
                             
