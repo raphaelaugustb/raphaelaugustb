@@ -56,9 +56,25 @@ relational and non-relational databases. I had to learn C, which I used for my c
 
 
 
+## GitHub Overview
 
-<br/>
-                            
+<br>
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&layout=compact&bg_color=000&text_color=FFF&theme=transparent" 
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=wnqueiroz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&bg_color=000&text_color=FFF&"
+    />
+  </a>
+</p>                 
 
 
 
