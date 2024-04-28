@@ -38,23 +38,6 @@ relational and non-relational databases. I had to learn C, which I used for my c
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>
- <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=wnqueiroz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
-
 
 ## GitHub Overview
 
