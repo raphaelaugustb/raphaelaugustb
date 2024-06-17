@@ -3,7 +3,6 @@
 
 
 ## 👋Welcome to my GitHub <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-My name is Raphael, I'm a FullStack Developer from Brazil! :computer:
 
 💬 My name is Raphael Augusto, I'm from Brazil, I'm an Back-End developer, I always try to learn something new, because that I also have experience with others areas, like front and mobile
 
