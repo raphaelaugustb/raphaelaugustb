@@ -4,7 +4,7 @@
 
 ## 👋Welcome to my GitHub <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-💬 My name is Raphael Augusto, I'm from Brazil, I'm an Back-End developer, I always try to learn something new, because that I also have experience with others areas, like front and mobile
+💬 My name is Raphael Augusto, I'm from Brazil, I'm an Back-End developer, I always search for updating myself and learn new things, solve problems in general, because of that I also have experience with others areas, like front and mobile.
 
 📚 I'm currently doing Software Engineering. But I had most of my time doing freelances jobs, getting experience and learning coding from courses and for my own.
 
