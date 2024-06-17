@@ -5,12 +5,11 @@
 ## 👋Welcome to my GitHub <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 My name is Raphael, I'm a FullStack Developer from Brazil! :computer:
 
-💬 My name is Raphael Augusto, I'm from Brazil, I'm an Full-Stack developer and by now my focus is mobile development.
+💬 My name is Raphael Augusto, I'm from Brazil, I'm an Back-End developer, I always try to learn something new, because that I also have experience with others areas, like front and mobile
 
 📚 I'm currently doing Software Engineering. But I had most of my time doing freelances jobs, getting experience and learning coding from courses and for my own.
 
-💻 I have experience using Typescript, Java, Javascript and his frameworks, I also have experience with 
-relational and non-relational databases. I had to learn C, which I used for my college, some freelances jobs and my own projects. But now I'm focused on Javascript, and I'm also learning Python in my free time.
+💻 I have experience using Java, TypeScript, JavaScript and his frameworks, I had to learn C because must of my college disciplines use it. I also have experience with relational and non-relational databases. source code management with Git, Docker, AWS, bases of programming like data structures and algorithms, concepts like SOLID, Design Pattern and others, I had to use them for some of my projects on college, freelances jobs and my own projects. now I'm focused on Java, and also I’m learning Kotlin.
 
  
 
@@ -49,12 +48,6 @@ relational and non-relational databases. I had to learn C, which I used for my c
       align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelaugustb&layout=compact&bg_color=000&text_color=FFF&theme=transparent" 
     />
-  </a>
-</p>  
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelaugustb&layout=compact&bg_color=000&text_color=FFF&theme=transparent&alt="my Github Stats"/> 
   </a>
 </p>  
 
